@@ -1,5 +1,7 @@
 # Stock Price Prediction Using LSTM
 
+A stock prediction system built using Deep Neural Networks(LSTM).
+
 ## Dataset
 
 Source - [NSE TATAMOTORS Historical Data](https://www1.nseindia.com/live_market/dynaContent/live_watch/get_quote/GetQuote.jsp?symbol=TATAMOTORS)
