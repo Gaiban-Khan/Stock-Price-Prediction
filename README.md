@@ -1,6 +1,6 @@
 # Stock Price Prediction Using LSTM
 
-A stock prediction system built using Deep Neural Networks(LSTM).
+A stock price prediction system built using Deep Neural Networks(LSTM).
 
 ## Dataset
 
