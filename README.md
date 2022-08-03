@@ -31,6 +31,7 @@ The dataset used contains data for TataMotors (Symbol: TATAMOTORS) from 16 July 
 <image src="https://editor.analyticsvidhya.com/uploads/16127Screenshot%202021-01-19%20at%2011.50.55%20PM.png" alt="LSTM Architecture" width=700>
 
 ## Results
+### Predicted Data vs Ground Truth
 <image src="./Images/Results.png" alt="Prediction Results" width=700>
 
 ## Contributors 👨‍💻
